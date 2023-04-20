@@ -1,5 +1,10 @@
 # AusCare-IoT-UniMoRe
 
+<img src="https://github.com/MicheleBellitti/AusCare-IoT/blob/main/%20front_image.png" alt="alt text" width="400" style="display: block; margin: 0 auto; border-radius:100%;">
+
+[Link to Google Slides presentation](https://docs.google.com/presentation/d/e/2PACX-1vQ2i6eVoEuoIJJQdsgbhh9R8loYYmrPabSjfryKXobic-ocGXdGUQ6W5pKfXkBFrw/pub?start=false&loop=false&delayms=3000)
+
+
 ## Wiring connection of [the display (ST7735S Display)](https://jakew.me/st7735-pi/)
 
 ```
